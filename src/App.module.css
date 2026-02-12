@@ -1,0 +1,32 @@
+.calculator {
+  width: 320px;
+  padding: 25px;
+  border-radius: 25px;
+
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
+  transition: 0.4s;
+}
+
+.dark {
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+}
+
+.toggle {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.2s;
+}
+
+.toggle:hover {
+  transform: scale(1.05);
+}
