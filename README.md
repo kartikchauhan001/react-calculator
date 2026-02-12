@@ -15,10 +15,17 @@ The project focuses on clean component architecture, state management, keyboard 
 
 ## Tech Stack
 
-- React (Functional Components)
-- useState & useEffect Hooks
-- CSS Modules
-- Modern CSS (Flexbox / Grid)
+ React (Functional Components)
+ useState & useEffect Hooks
+ CSS Modules
+ Modern CSS (Flexbox / Grid)
+
+🌐 Live Demo
+ https://react-calculator-fhc3dl9yt-kartik-chauhans-projects-df515130.vercel.app
+
+📸 Screenshot
+<img width="1914" height="875" alt="image" src="https://github.com/user-attachments/assets/36713e6e-0a44-4c9a-9e82-cb6a85046d60" />
+
 
 ## Architecture Overview
 
